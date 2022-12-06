@@ -1,4 +1,2 @@
 #!/bin/ba
-
-sh
- cat /etc/passwd
+cat /etc/passwd
