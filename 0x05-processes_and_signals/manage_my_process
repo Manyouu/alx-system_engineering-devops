@@ -1,0 +1,6 @@
+start() {
+    ./manage_my_process &
+    echo "$!" > "$PIDFILE"
+       start
+       echo "manage_my_process started"
+       ;;
